@@ -38,6 +38,8 @@ Num set as 10000,the response from ES took 400
 </p>
 
 ## Summary
-As num changes from 10 to 100, the top10 candidates are selected, with subtle differences.
-When num changes from 100 to 10,000, the top10 candidates selected remain largely unchanged
+In this experiment, we defaulted the top k setting to 10.
+When the data set is small as 15K we used, the top 10 candidates are selected when num changes from 10 to 100, but there is a slight difference.
+When num changes from 100 to 10,000, there is no change in the top 10 candidates selected.
+When the data set was larger as 100K we used, no change was found in the top10 candidates even when num changed from 10 to 10,000.
 
