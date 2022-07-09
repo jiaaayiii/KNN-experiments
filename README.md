@@ -14,7 +14,7 @@ Num set as 1k,the response from ES took 11
 <p>
   <img width="50%" src="https://github.com/jiaaayiii/KNN-experiments/blob/main/num1000.png" />
 </p>
-Num set as 100k,the response from ES took 21
+Num set as 10k,the response from ES took 21
 <p>
   <img width="50%" src="https://github.com/jiaaayiii/KNN-experiments/blob/main/num10000.png" />
 </p>
@@ -28,11 +28,11 @@ Num set as 100,the response from ES took 73
 <p>
   <img width="50%" src="https://github.com/jiaaayiii/KNN-experiments/blob/main/num100-100k.png" />
 </p>
-Num set as 1000,the response from ES took 235
+Num set as 1k,the response from ES took 235
 <p>
   <img width="50%" src="https://github.com/jiaaayiii/KNN-experiments/blob/main/num1000-100k.png" />
 </p>
-Num set as 10000,the response from ES took 400
+Num set as 10K,the response from ES took 400
 <p>
   <img width="50%" src="https://github.com/jiaaayiii/KNN-experiments/blob/main/num10000-100k.png" />
 </p>
